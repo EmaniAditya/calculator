@@ -22,5 +22,3 @@ Check out the live demo [here](https://emaniaditya.github.io/calculator/)
 - LinkedIn: [Aditya](https://www.linkedin.com/in/me-adityaemani/)
 - Projects: [Github](https://github.com/EmaniAditya)
 - Email: esaadityareddy@gmail.com
-
----
